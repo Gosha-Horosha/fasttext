@@ -46,8 +46,6 @@ tqdm — прогресс-бары
  Структура репозитория
 lenta_analysis_final.ipynb — основной ноутбук с полным циклом анализа.
 
-train_data_titles.txt / titles_unsupervised.txt — промежуточные файлы для обучения FastText
-
 Датасет можно найти по ссылке:
 
 https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta
